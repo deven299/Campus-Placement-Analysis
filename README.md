@@ -1,5 +1,5 @@
 # Campus Placement Analysis
-An extensive analysis on various features 
+Applying various Machine Learning algorithms to check if a student will be placed or not.
 
 ## What is in it?
 This data set consists of Placement data of students in our campus. It includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students.
