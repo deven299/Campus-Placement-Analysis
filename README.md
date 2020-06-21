@@ -1,4 +1,4 @@
-# Campus-Placement-Analysis
+# Campus Placement Analysis
 An extensive analysis on various features 
 
 ## What is in it?
