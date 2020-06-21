@@ -10,7 +10,7 @@ This data set consists of Placement data of students in our campus. It includes 
 - Which degree specialization is much demanded by corporate?
 
 ## Data Overview:
-- This dataset is taken from [Kaggle](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
+- This dataset is taken from [Kaggle.](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
 - This dataset has 14 columns: ['gender', 'ssc_p', 'ssc_b', 'hsc_p', 'hsc_b', 'hsc_s', 'degree_p','degree_t', 'workex', 'etest_p', 'specialisation', 'mba_p', 'status', 'salary'].
 
 ## Plotting the problem as a ML problem
