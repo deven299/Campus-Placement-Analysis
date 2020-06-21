@@ -12,10 +12,12 @@ This data set consists of Placement data of students in our campus. It includes 
 ## Data Overview:
 - This dataset is taken from [Kaggle](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)
 - This dataset has 14 columns: ['gender', 'ssc_p', 'ssc_b', 'hsc_p', 'hsc_b', 'hsc_s', 'degree_p','degree_t', 'workex', 'etest_p', 'specialisation', 'mba_p', 'status', 'salary'].
-- Sample datapoint:
-  ```
-  gender  ssc_p   ssc_b  hsc_p   hsc_b     hsc_s  degree_p  degree_t workex  \
-``` 0      M   67.0  Others   91.0  Others  Commerce      58.0  Sci&Tech     No   
 
-```   etest_p specialisation  mba_p  status    salary  
-```0     55.0         Mkt&HR   58.8  Placed  270000.0  
+## Plotting the problem as a ML problem
+```status``` variable is a binary variable. 
+This problem is a binary classification problem - for a given set of features we need to see if a student is placed or not.
+performance Metrics: accuracy_score
+
+```diff
+- please look for Campus Placement Analysis.ipynb for implementation.
+```
